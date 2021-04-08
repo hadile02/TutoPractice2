@@ -1,2 +1,2 @@
-hi this is test code
+hi this is test code .
 Protection rule test1
